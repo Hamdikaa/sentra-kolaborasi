@@ -11,10 +11,7 @@ Repository bersama praktikum DevOps - Politeknik Negeri Batam.
 
 ## Daftar Skrip
 - setup.sh - mentiapkan lingkungan dan menjalankan smoke test
-uji langsung
-uji langsung
-uji langsung
-uji langsung
-healthcheck.sh memeriksa status layanan
+- monitoring.sh - memantau layanan secara berkala
+- healthcheck.sh memeriksa status layanan
 - exit code 0: layanan UP
 - exit code 2: layanan DOWN
