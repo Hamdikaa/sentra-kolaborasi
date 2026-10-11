@@ -15,3 +15,6 @@ uji langsung
 uji langsung
 uji langsung
 uji langsung
+healthcheck.sh memeriksa status layanan
+- exit code 0: layanan UP
+- exit code 2: layanan DOWN
